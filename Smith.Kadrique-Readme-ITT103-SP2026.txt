@@ -1,0 +1,31 @@
+README
+
+Author: Kadrique Smith
+Date Created: April 5 2026
+Course: ITT103
+GitHub URL:https://github.com/Kadrique/effective-octo-succotash/tree/main
+
+This project is a Point of Sale (POS) system developed using Python.
+Its purpose simulates a basic retail store where users can:
+
+View available products
+Add items to a cart
+Remove items from the cart
+View the total cost
+Check-out and generate a receipt
+
+How it Works:
+The program will start with a menu, the user is expected to select between options 1-6, and based on their choice, the program will run with its corresponding function for each number(choice).
+
+Here is an example of the program flow:
+User selects products --> Add Item --> Enters item name and desired quantity --> View Cart --> Checkout --> Receipt is generated
+
+Limitations of the Program:
+
+No Authentication or a Login system
+No Graphical User Interface
+Data isn't saved after the program ends 
+
+
+
+
